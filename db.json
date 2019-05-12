@@ -11,8 +11,8 @@
   "profile": {
     "name": "typicode"
   },
-  "userInfo": [
+  "userInfo": {
     "userId": 123,
     "token": 123567890
-  ]
+  }
 }
